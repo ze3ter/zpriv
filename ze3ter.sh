@@ -28,3 +28,4 @@ if [ $choice==2 ]
 then 
 bash privilege-escalation.sh
 fi
+	exit
