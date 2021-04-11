@@ -12,6 +12,7 @@ echo "
  ########  ########  #######:     ##     ########  ##    ##:
  ########  ########  :#####:      ##     ########  ##    ###"
 echo "					by Mohamed salem eedah"
+echo -e "\e[33mMohamed \e[32msalem eedah"
 
 
 echo "1) privilege escalation" 
