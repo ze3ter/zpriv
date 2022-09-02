@@ -25,8 +25,8 @@ A misconfigured or vulnerable service running as root can be an easy win for pri
 been discovered in many common services such as Nagios, Exim, Samba, ProFTPd, etc. Public exploit PoCs exist 
 for many of them, such as CVE-2016-9566, a local privilege escalation flaw in Nagios Core < 4.2.4.
 ```
-git clone https://github.com/MO7AMED-SALM/MO7AMED-SALM.git
-    cd MO7AMED-SALM
+git clone https://github.com/ze3ter/zpriv.git
+    cd zpriv
     chmod +x ze3ter.sh
     ./ze3ter.sh
     ```
